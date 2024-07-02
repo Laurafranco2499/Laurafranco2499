@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura Franco</h1>
-![Laura Franco Banner](Laura.png)
+![Laura Franco Banner](https://github.com/Laurafranco2499/Laurafranco2499/blob/main/Laura.png)
 
 
 🌱 I’m currently learning **WEB Development Backend**
