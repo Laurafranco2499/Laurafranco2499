@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Laura 
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
 
 <!--
 **Laurafranco2499/Laurafranco2499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
