@@ -41,6 +41,7 @@ if __name__ == '__main__':
   <div align="left"> 
      <a href="">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=laurafranco2499&theme=flag-india&show_icons=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=laurafranco2499" alt="bouaskaoun">
     </a>
 </div
 
@@ -49,7 +50,6 @@ if __name__ == '__main__':
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurafranco2499)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<hr>
 <p align="center">
    <i>Contact me!</i>
    <br>
@@ -59,5 +59,8 @@ if __name__ == '__main__':
 <br>
 </p>
 
-
+<p align="center">
+   <i>Email: laurafranco2499@gmail.com</i>    
+   <br>
+</p>
 
