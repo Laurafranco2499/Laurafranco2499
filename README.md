@@ -49,7 +49,15 @@ if __name__ == '__main__':
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurafranco2499)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<hr>
+<p align="center">
+   <i>Contact me!</i>
+   <br>
+<br>	
+<a target="_blank" href="aqui va el link "><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:laurafranco2499@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
+</p>
 
 
 
